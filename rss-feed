@@ -16,5 +16,11 @@
       <description>Descripción del Artículo 2</description>
       <pubDate>Thu, 31 Aug 2023 14:00:00 GMT</pubDate>
     </item>
+    <item>
+      <title>Artículo 2</title>
+      <link>http://www.ejemplo.com/articulo2</link>
+      <description>Descripción del Artículo 2</description>
+      <pubDate>Thu, 32 Aug 2023 14:00:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
